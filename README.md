@@ -1,1 +1,3 @@
 # Loan_default_prediction
+
+Proyek ini bertujuan untuk melakukan analisis mendalam dan pemodelan yang cermat terhadap data keterlambatan pembayaran pinjaman. Dengan menggunakan teknik-teknik analisis statistik dan machine learning terkini, saya mengidentifikasi pola-pola dan faktor-faktor yang berkontribusi terhadap default pinjaman. Selain itu, saya mengembangkan model prediktif yang dapat memprediksi kemungkinan keterlambatan pembayaran secara akurat. Hasil dari proyek ini diharapkan dapat membantu lembaga keuangan dalam mengambil keputusan yang lebih tepat dalam penilaian risiko pemberian pinjaman
