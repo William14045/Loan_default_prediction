@@ -29,4 +29,4 @@ def classify_region(state):
     elif state in ['Arunachal Pradesh', 'Assam', 'Bihar', 'Chhattisgarh', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Sikkim', 'Tripura', 'West_Bengal','Puducherry']:
         return 'East'
     else:
-        return 'East'
+        return 'Unknown'
