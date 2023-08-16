@@ -1,3 +1,0 @@
-model Deployment : https://huggingface.co/spaces/William14045/loan_risk_flag_prediction
-
-EDA dashboard : https://lookerstudio.google.com/reporting/1b710b7a-8876-414e-96dd-284a8db69bc7/page/E9jZD
